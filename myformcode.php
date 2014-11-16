@@ -1,0 +1,1 @@
+<div id="div0" class="form-group"><label class="control-label col-xs-4" for="post[1]">a</label><div class="col-xs-8" id="childDiv0"><input type="hidden" name="label[1]" value="a"><input type="text" name="post[1]" id="post[1]" class="form-control" style="width:150px;"></div></div>

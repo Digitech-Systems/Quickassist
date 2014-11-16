@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+#dir_dash
+{
+	width:100%;
+	overflow:auto;
+	border:1px solid grey;
+}
